@@ -1,0 +1,18 @@
+IPL 2022 Data Analysis Project
+
+This project focuses on analyzing the Indian Premier League (IPL) 2022 season using Python, Pandas, NumPy, Matplotlib, and Seaborn. The main objective is to explore match results, team performance, toss decisions, player achievements, batting and bowling statistics, and match venues.
+
+The project uses data analysis techniques such as data loading, data cleaning, grouping, filtering, sorting, and aggregation to extract meaningful insights from the dataset. Various visualizations, including bar charts and pie charts, are used to understand trends and compare performances.
+
+Through this project, I practiced exploratory data analysis (EDA), data manipulation using Pandas, and data visualization using Matplotlib and Seaborn.
+
+Technologies Used:
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+Project Goal:
+To gain practical experience in data analysis and discover useful insights from IPL 2022 match data.
